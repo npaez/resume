@@ -24,20 +24,22 @@ email: nestor.2005@gmail.com
 - **back-end developer - *freelance***<br>
 	*(2017 - present)*<br>
 	providing back-end development as a freelance developer
+- **lead developer - *waia***<br>
+	*(2021 - present)*<br>
 - **full-stack/lead developer - *satelitech s.a.***<br>
 	*(2016 - 2021)*<br>
 	for almost 5 years i've been doing full-stack development<br>
-  lead several projects for their main client<br>
-  from time managment, stock control to hot refueling oil systems
+  	lead several projects for their main client<br>
+  	from time managment, stock control to hot refueling oil systems
 - **front-end developer - *arqu***<br>
 	*(2017)*<br>
 	doing web development to an architects job market company
-- **ui/ux consulting - *rosario sistemas srl***<br>
-  *(2015 - 2018)*<br>
-  providing ui & ux consulting for more than 2 years<br>to one of the main ecommerce provider enterprise of the region
-- **front-end developer - *sinaptica srl***<br>
-  *(2014 - 2016)*<br>
-  my first steps on web development and what makes great web applications great
+- **ui/ux consulting - *rosario sistemas s.r.l.***<br>
+	*(2015 - 2018)*<br>
+	providing ui & ux consulting for more than 2 years<br>to one of the main ecommerce provider enterprise of the region
+- **front-end developer - *sinaptica s.r.l.***<br>
+	*(2014 - 2016)*<br>
+	my first steps on web development and what makes great web applications great
   
 
 <br><br>
@@ -52,6 +54,7 @@ some of the things i use daily
 	- `express.js`
 	- `react.js`
 	- `react-native`
+	- `next.js`
 	- `vue.js`
 	- `expo`
 	- `jquery`
@@ -62,6 +65,7 @@ some of the things i use daily
 	- `mysql`
 - **user interaces**
 	- `bootstrap`
+	- `rsuite.js`
 	- `nativebase`
 	- `ant.design`
 	- `vuetify.js`
