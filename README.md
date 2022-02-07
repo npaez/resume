@@ -18,12 +18,9 @@ email: nestor.2005@gmail.com
 
 <br><br>
 ## work timeline
-- **front-end developer - *freelance***<br>
+- **full-stack developer - *freelance***<br>
 	*(2014 - present)*<br>
-	providing front-end development services to companies and individuals.
-- **back-end developer - *freelance***<br>
-	*(2017 - present)*<br>
-	providing back-end development as a freelance developer
+	providing full-stack development services to companies and individuals.
 - **lead developer - *waia***<br>
 	*(2021 - present)*<br>
 - **full-stack/lead developer - *satelitech s.a.***<br>
