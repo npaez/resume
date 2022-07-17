@@ -3,9 +3,12 @@
 
 ## short bio
 i'm a 30 years old programmer, specialized in web development, based in argentina<br>
-interested in programming languages, algorithms, optimizations, ui/ux design and open source software
+interested in programming languages, algorithms, optimizations, ui/ux design and open source software<br>
+proficient at javascript technologies such as `node.js`, `react.js`, `express.js` and `mongodb`
 <br><br>
 i provide webapp and mobile development services, ui & ux consultancy and restful api integrations
+
+
 
 <br><br>
 ## contact
@@ -14,29 +17,51 @@ drop me a line at:
 email: nestor.2005@gmail.com
 <br>github: [@npaez](https://github.com/npaez)
 <br>linkedin: [@ntpaez](https://www.linkedin.com/in/nestorpaez/)
-<br>twitter: [@ntpaez](https://twitter.com/ntpaez)
 
 <br><br>
 ## work timeline
-- **full-stack developer - *freelance***<br>
-	*(2014 - present)*<br>
-	providing full-stack development services to companies and individuals.
-- **lead developer - *waia***<br>
+- **full-stack & lead developer - *waia***<br>
 	*(2021 - present)*<br>
-- **full-stack/lead developer - *satelitech s.a.***<br>
+  - managing small teams
+  - lead most of javascript-related projects
+  - planning and developing apps from scratch
+  - technical solution design and development
+  - ui/ux planning, design and development
+  - direct relationship with clients (native and foreign speakers)
+  - deploying on cloud
+  - scrum
+  - tutoring trainee and junior developers on javascript (fundamentals, frameworks, patters and good practices)
+  - stack: `react.js` `next.js` `react-native` `node.js` `express.js` `mongodb` `sql` `docker` `digital ocean cloud` `git`
+
+- **full-stack developer - *satelitech s.a.***<br>
 	*(2016 - 2021)*<br>
-	for almost 5 years i've been doing full-stack development<br>
-  	lead several projects for their main client<br>
-  	from time managment, stock control to hot refueling oil systems
+  - working with small team
+  - ui/ux planning, design and development
+  - restful api integrations
+  - direct relationship with client (native speaker)
+  - stack: `node.js` `express.js` `mongodb` `jquery` `javascript` `react-native` `git`
+
 - **front-end developer - *arqu***<br>
 	*(2017)*<br>
-	doing web development to an architects job market company
+  - ui/ux development
+  - restful api integrations
+  - stack: `jquery` `node.js` `git`
+
 - **ui/ux consulting - *rosario sistemas s.r.l.***<br>
 	*(2015 - 2018)*<br>
-	providing ui & ux consulting for more than 2 years<br>to one of the main ecommerce provider enterprise of the region
+  - design planning and review
+  - code review
+  - stack: `javascript` `html5/css3` `git`
+
+- **full-stack developer - *freelance***<br>
+	*(2014 - present)*<br>
+  - design and development of institutional website
+  - stack: `javascript` `jquery` `html5/css3` `git` `node.js` `express.js` `react-native`
+
 - **front-end developer - *sinaptica s.r.l.***<br>
 	*(2014 - 2016)*<br>
-	my first steps on web development and what makes great web applications great
+  - ui design & developement
+  - stack: `jquery` `angular.js` `html5/css3` `git`
   
 
 <br><br>
@@ -68,5 +93,5 @@ some of the things i use daily
 	- `vuetify.js`
 	- `css3`
 - **languages**
-	- `spanish`
-	- `english`
+	- `spanish (native)`
+	- `english (proficient)`
