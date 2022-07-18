@@ -2,13 +2,11 @@
 <br>
 
 ## short bio
-i'm a 30 years old programmer, specialized in web development, based in argentina<br>
+i'm a 31 years old programmer, specialized in web development, based in argentina<br>
 interested in programming languages, algorithms, optimizations, ui/ux design and open source software<br>
 proficient at javascript technologies such as `node.js`, `react.js`, `express.js` and `mongodb`
 <br><br>
 i provide webapp and mobile development services, ui & ux consultancy and restful api integrations
-
-
 
 <br><br>
 ## contact
@@ -31,7 +29,11 @@ email: nestor.2005@gmail.com
   - deploying on cloud
   - scrum
   - tutoring trainee and junior developers on javascript (fundamentals, frameworks, patters and good practices)
-  - stack: `react.js` `next.js` `react-native` `node.js` `express.js` `mongodb` `sql` `docker` `digital ocean cloud` `git`
+
+  tools & technologies:<br>
+  `react.js` `next.js` `react-native` `node.js` `express.js` `mongodb` `sql` `docker` `digital ocean cloud` `git`
+
+<br>
 
 - **full-stack developer - *satelitech s.a.***<br>
 	*(2016 - 2021)*<br>
@@ -39,29 +41,48 @@ email: nestor.2005@gmail.com
   - ui/ux planning, design and development
   - restful api integrations
   - direct relationship with client (native speaker)
-  - stack: `node.js` `express.js` `mongodb` `jquery` `javascript` `react-native` `git`
+  
+  tools & technologies:<br>
+  `node.js` `express.js` `mongodb` `jquery` `javascript` `react-native` `mssql` `git`
+
+<br>
 
 - **front-end developer - *arqu***<br>
 	*(2017)*<br>
   - ui/ux development
   - restful api integrations
-  - stack: `jquery` `node.js` `git`
+  
+  tools & technologies:<br>
+  `jquery` `node.js` `git`
+
+<br>
 
 - **ui/ux consulting - *rosario sistemas s.r.l.***<br>
 	*(2015 - 2018)*<br>
   - design planning and review
   - code review
-  - stack: `javascript` `html5/css3` `git`
+
+  tools & technologies:<br>
+  `javascript` `html5/css3` `git`
+
+<br>
 
 - **full-stack developer - *freelance***<br>
 	*(2014 - present)*<br>
   - design and development of institutional website
-  - stack: `javascript` `jquery` `html5/css3` `git` `node.js` `express.js` `react-native`
+  - restful api integrations
+ 
+  tools & technologies:<br>
+  `javascript` `jquery` `html5/css3` `git` `node.js` `express.js` `react-native`
+
+<br>
 
 - **front-end developer - *sinaptica s.r.l.***<br>
 	*(2014 - 2016)*<br>
   - ui design & developement
-  - stack: `jquery` `angular.js` `html5/css3` `git`
+  
+  tools & technologies:<br>
+  `jquery` `angular.js` `html5/css3` `git`
   
 
 <br><br>
