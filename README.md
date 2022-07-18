@@ -1,8 +1,8 @@
-# resume - nestor paez<br>full stack developer
+# resume - nestor paez<br>full-stack developer
 <br>
 
 ## short bio
-i'm a 31 years old programmer, specialized in web development, based in argentina<br>
+i'm a 31 years old programmer specialized in web development, based in argentina<br>
 interested in programming languages, algorithms, optimizations, ui/ux design and open source software<br>
 proficient at javascript technologies such as `node.js`, `react.js`, `express.js` and `mongodb`
 <br><br>
@@ -88,31 +88,36 @@ tools & technologies:<br>
 <br><br>
 ## tech, skills & stuff
 some of the things i use daily
-- **programming languages**
-	- `javascript`
-	- `c, c++`
-	- `python`
-- **frameworks**
-	- `node.js`
-	- `express.js`
-	- `react.js`
-	- `react-native`
-	- `next.js`
-	- `vue.js`
-	- `expo`
-	- `jquery`
-- **databases**
-	- `mongodb`
-	- `mongoose`
-	- `microsoft sql server`
-	- `mysql`
-- **user interaces**
-	- `bootstrap`
-	- `rsuite.js`
-	- `nativebase`
-	- `ant.design`
-	- `vuetify.js`
-	- `css3`
-- **languages**
-	- `spanish (native)`
-	- `english (proficient)`
+
+**programming languages**
+- `javascript`
+- `c, c++`
+- `python`
+
+**frameworks**
+- `node.js`
+- `express.js`
+- `react.js`
+- `react-native`
+- `next.js`
+- `vue.js`
+- `expo`
+- `jquery`
+
+**databases**
+- `mongodb`
+- `mongoose`
+- `microsoft sql server`
+- `mysql`
+
+**user interaces**
+- `rsuite.js`
+- `nativebase`
+- `ant.design`
+- `vuetify.js`
+- `bootstrap`
+- `css3`
+
+**languages**
+- `spanish (native)`
+- `english (proficient)`
