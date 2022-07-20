@@ -2,7 +2,7 @@
 <br>
 
 ## short bio
-i'm a 31 years old programmer specialized in web development, based in argentina<br>
+i'm a 31 years old programmer specialized in web development with 7+ years of experience, based in argentina<br>
 interested in programming languages, algorithms, optimizations, ui/ux design and open source software<br>
 proficient at javascript technologies such as `node.js`, `react.js`, `express.js` and `mongodb`
 <br><br>
@@ -23,15 +23,14 @@ email: nestor.2005@gmail.com
 - managing small teams
 - lead most of javascript-related projects
 - planning and developing apps from scratch
-- technical solution design and development
-- ui/ux planning, design and development
+- technical solution & ui/ux planning, design and development
 - direct relationship with clients (native and foreign speakers)
 - deploying on cloud
 - scrum
 - tutoring trainee and junior developers on javascript (fundamentals, frameworks, patters and good practices)
 
 tools & technologies:<br>
-`react.js` `next.js` `react-native` `node.js` `express.js` `mongodb` `sql` `docker` `digital ocean cloud` `git`
+`react.js` `next.js` `react-native` `node.js` `express.js` `mongodb` `socket.io` `sql` `docker` `digital ocean cloud` `git`
 
 <br>
 
@@ -100,6 +99,7 @@ some of the things i use daily
 - `react.js`
 - `react-native`
 - `next.js`
+- `socket.io`
 - `vue.js`
 - `expo`
 - `jquery`
