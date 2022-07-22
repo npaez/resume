@@ -19,7 +19,7 @@ email: nestor.2005@gmail.com
 <br><br>
 ## work timeline
 **full-stack & lead developer - *waia***<br>
-*(2021 - present)*<br>
+2021 - present<br>
 - managing small teams
 - lead most of javascript-related projects
 - planning and developing apps from scratch
@@ -28,17 +28,39 @@ email: nestor.2005@gmail.com
 - deploying on cloud
 - scrum
 - tutoring trainee and junior developers on javascript (fundamentals, frameworks, patters and good practices)
+- problem-solving support in both code and business processes
 
 tools & technologies:<br>
-`react.js` `next.js` `react-native` `node.js` `express.js` `mongodb` `socket.io` `sql` `docker` `digital ocean cloud` `git`
+`react.js` `next.js` `react-native` `node.js` `express.js` `mongodb` `socket.io` `sql` `php` `docker` `digital ocean cloud` `git`
+
+<br>
+
+**consulting developer - *cryptologic*** (freelance)<br>
+*2019*<br>
+- tutoring junior developers on javascript
+- code review
+
+tools & technologies:<br>
+`javascript` `react.js` `node.js`
+
+<br>
+
+**front-end developer - *arqu*** (freelance)<br>
+*2017*<br>
+- implementation of mock-ups and functionality of the web app
+- maintainance and improvement of already developed apis
+
+tools & technologies:<br>
+`jquery` `node.js` `mongodb` `git`
 
 <br>
 
 **full-stack developer - *satelitech s.a.***<br>
-*(2016 - 2021)*<br>
+*2016 - 2021*<br>
 - working with small team
-- ui/ux planning, design and development
-- restful api integrations
+- design and development of core ui component to be used for other micro-apps
+- maintainance, improvement and creation of restful apis and web services
+- design, modeling and implementation of databases for small/medium projects
 - direct relationship with client (native speaker)
 
 tools & technologies:<br>
@@ -46,18 +68,8 @@ tools & technologies:<br>
 
 <br>
 
-**front-end developer - *arqu***<br>
-*(2017)*<br>
-- ui/ux development
-- restful api integrations
-
-tools & technologies:<br>
-`jquery` `node.js` `git`
-
-<br>
-
-**ui/ux consulting - *rosario sistemas s.r.l.***<br>
-*(2015 - 2018)*<br>
+**ui/ux consulting - *rosario sistemas s.r.l.*** (freelance)<br>
+*2015 - 2018*<br>
 - design planning and review
 - code review
 
@@ -66,19 +78,9 @@ tools & technologies:<br>
 
 <br>
 
-**full-stack developer - *freelance***<br>
-*(2014 - present)*<br>
-- design and development of institutional website
-- restful api integrations
-
-tools & technologies:<br>
-`javascript` `jquery` `html5/css3` `git` `node.js` `express.js` `react-native`
-
-<br>
-
 **front-end developer - *sinaptica s.r.l.***<br>
-*(2014 - 2016)*<br>
-- ui design & developement
+*2014 - 2016*<br>
+- implementation of mock-ups for different projects
 
 tools & technologies:<br>
 `jquery` `angular.js` `html5/css3` `git`
